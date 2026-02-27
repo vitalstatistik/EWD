@@ -1,0 +1,2 @@
+# EWD
+Entropy Weighted distributions
